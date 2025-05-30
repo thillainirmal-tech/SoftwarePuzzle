@@ -26,35 +26,55 @@ A Java-based web application that presents users with interactive puzzle challen
 - **Backend**: Java
 - **IDE**: Eclipse
 
-## Project Structure
-SoftwarePuzzle/
-├── .settings/ 
-# IDE configuration files
-├── WebContent/META-INF/ 
-# Web application metadata
-├── db/
-# Database-related files
-├── puzzle sample image/ 
-# Sample images for puzzles
-├── src/ 
-# Java source code
-├── web/ 
-# Web interface components
-├── .classpath 
-# Eclipse classpath configuration
-├── .project
-# Eclipse project configuration
-├── newhtml.html 
-# Additional HTML file
-├── newhtml1.html
-# Additional HTML file
-└── README.md 
-# Project documentation
-
 ## Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/thillainirmal-tech/SoftwarePuzzle.git
-   
+   ```
+
+2. **Open in NetBeans**:
+   - Launch NetBeans IDE.
+   - Navigate to `File` > `Open Project`.
+   - Select the cloned repository folder.
+
+3. **Set up the database**:
+   - Create a MySQL database.
+   - Import the `counselling.sql` file to create the necessary tables.
+
+4. **Build the project**:
+   - Right-click on the project in the NetBeans Projects pane.
+   - Select `Build` to compile the project using Ant.
+
+5. **Run the project**:
+   - Right-click on the project.
+   - Select `Run` to execute the application.
+
+## Usage
+
+-Access the web interface via `http://localhost:8080/SoftwarePuzzle`.
+-Select a puzzle image to start the game.
+-Rearrange the puzzle pieces to complete the image.
+-View your completion time and score upon finishing.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push to your fork.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+K. Thillai Nirmal  
+Email: shanmugakannan7549@gmail.com  
+GitHub: [thillainirmal-tech](https://github.com/thillainirmal-tech)
+
 
