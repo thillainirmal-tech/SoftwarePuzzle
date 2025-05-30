@@ -28,22 +28,33 @@ A Java-based web application that presents users with interactive puzzle challen
 
 ## Project Structure
 SoftwarePuzzle/
-├── .settings/ # IDE configuration files
-├── WebContent/META-INF/ # Web application metadata
-├── db/ # Database-related files
-├── puzzle sample image/ # Sample images for puzzles
-├── src/ # Java source code
-├── web/ # Web interface components
-├── .classpath # Eclipse classpath configuration
-├── .project # Eclipse project configuration
-├── newhtml.html # Additional HTML file
-├── newhtml1.html # Additional HTML file
-└── README.md # Project documentation
+├── .settings/ 
+# IDE configuration files
+├── WebContent/META-INF/ 
+# Web application metadata
+├── db/
+# Database-related files
+├── puzzle sample image/ 
+# Sample images for puzzles
+├── src/ 
+# Java source code
+├── web/ 
+# Web interface components
+├── .classpath 
+# Eclipse classpath configuration
+├── .project
+# Eclipse project configuration
+├── newhtml.html 
+# Additional HTML file
+├── newhtml1.html
+# Additional HTML file
+└── README.md 
+# Project documentation
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/thillainirmal-tech/SoftwarePuzzle.git
-
+   
 
