@@ -57,9 +57,9 @@ static Properties properties = new Properties();
             
              try
              {
-      final String  from="chennai.training@pantechmail.com";
+      final String  from="thillai@tech";
                final String password="webinar@2020";
-               final String to="chennai.training@pantechmail.com";
+               final String to="thillai@tech";
                       
          Session session = Session.getInstance(properties, new javax.mail.Authenticator() 
          {
