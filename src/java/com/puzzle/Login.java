@@ -178,9 +178,9 @@ private String dbURL = "jdbc:mysql://localhost:3306/softwarepuzzle";
                    ///////////////Mail/////////////////////////////////////
             ///////////////////////////////////////////////////////
             
-             final String  from="prabuit05@gmail.com";
-               final String password="yogeshprabu";
-               final String to="prabuit05@gmail.com";
+             final String  from="thillai05@gmail.com";
+               final String password="admin@pwd";
+               final String to="thillai05@gmail.com";
            
            
          Session session = Session.getInstance(properties, new javax.mail.Authenticator() 
