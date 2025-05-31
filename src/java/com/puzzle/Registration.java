@@ -70,7 +70,7 @@ public class Registration extends HttpServlet {
 // database connection settings
    private String dbURL = "jdbc:mysql://localhost:3306/softwarepuzzle";
     private String dbUser = "root";
-    private String dbPass = "Pantech@987";
+    private String dbPass = "admin@987";
      Statement st=null;
        ResultSet rs=null;
        
